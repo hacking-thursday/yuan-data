@@ -10,6 +10,8 @@
 - 你想做什麼/something want to do:
   - machine learning
   - 農業資料庫
+- 現在正在參加的專案:
+  - 開放農業
 - 曾經參加的專案或社群:
   - hacking-thursday
 
