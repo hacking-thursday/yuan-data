@@ -3,12 +3,7 @@ language: python
 python:
     - "2.7"
 
-script: ./build.sh
+script: ./yaml2json.py
 
-deploy:
-  provider: master
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  keep-history: true
-  on:
-    branch: master
+after_success:
+    - .travis/update.sh
