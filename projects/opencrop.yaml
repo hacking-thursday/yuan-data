@@ -9,10 +9,10 @@ contact:
 links:
 - title: Facebook
   url: https://www.facebook.com/groups/OpenHackFarm/
-  icon: https://raw.githubusercontent.com/hacking-thursday/yuan/master/icons/webicon-facebook-m.png
+  icon: https://raw.githubusercontent.com/hacking-thursday/yuan/master/icons/webicon-facebook-s.png
 - title: GitHub
   url: https://github.com/OpenHackFarm/open_crops
-  icon: https://raw.githubusercontent.com/hacking-thursday/yuan/master/icons/webicon-github-m.png
+  icon: https://raw.githubusercontent.com/hacking-thursday/yuan/master/icons/webicon-github-s.png
 skills:
 - Data Analysis
 - Data Virtualization
