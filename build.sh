@@ -8,5 +8,5 @@ echo $RET
 
 if [[ $RET == 0 ]]; then
   git add autogen/data.json
-  git commit -m 'Update data.json [ci skip]'
+  git commit -m 'Update data.json'
 fi
