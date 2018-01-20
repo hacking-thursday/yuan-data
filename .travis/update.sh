@@ -8,6 +8,7 @@ setup_git() {
 update_file() {
     git remote set-url origin https://${GITHUB_TOKEN}@github.com/hacking-thursday/yuan-data.git > /dev/null 2>&1
     git push --quiet --set-upstream origin master
+    git log -n 3
 }
 
 git status | grep autogen/data.json
