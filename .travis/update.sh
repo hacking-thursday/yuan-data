@@ -6,11 +6,9 @@ setup_git() {
 }
 
 update_file() {
-    git remote add origin-pages https://${GITHUB_TOKEN}@github.com/hacking-thursday/yuan-data.git > /dev/null 2>&1
+    git remote set-url origin https://${GITHUB_TOKEN}@github.com/hacking-thursday/yuan-data.git > /dev/null 2>&1
     git push --quiet --set-upstream origin master
 }
-
-echo ${GITHUB_TOKEN}
 
 git status | grep autogen/data.json
 
