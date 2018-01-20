@@ -5,7 +5,7 @@ cover: https://raw.githubusercontent.com/OpenHackFarm/open_crops/gh-pages/No_Cov
 entry: http://opencrop.openhackfarm.tw/ # Project Main Page 主網頁
 contact: # Contact Information (E-Mail or Website Link) 聯絡資訊 (郵件信箱或網頁)
 - a0726h77@gmail.com
-links: # Relation Page (put [] if empty) 專案相關進入點
+links: # Relative Page (put [] if empty) 專案相關進入點
 - title: Facebook
   url: https://www.facebook.com/groups/OpenHackFarm/
   icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-facebook-s.png
