@@ -6,7 +6,7 @@ python:
 script: ./build.sh
 
 deploy:
-  provider: pages
+  provider: master
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
