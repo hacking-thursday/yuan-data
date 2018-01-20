@@ -1,8 +1,9 @@
 # yuan
 相逢就是有緣。舞台缺人，人缺舞台。
 
-## 專案
-
-你想找人一起做專案，卻不知道怎麼找人嘛？
-只要你將專案資訊寫好，放到 projects 目錄下即可
-我們就會在網站上顯示你的專案資訊。
+## How to add your project?
+1. Add your project description file in [projects/](https://github.com/hacking-thursday/yuan-data/tree/master/projects) directory.
+2. You can copy [this file as template](https://github.com/hacking-thursday/yuan-data/blob/master/templates/project.yaml) and edit all fields.
+3. Then [create a pull request](https://help.github.com/articles/creating-a-pull-request/) with it.
+4. Wait a bit for it to be merged.
+5. Visit [https://hacking-thursday.github.io/yuan/](https://hacking-thursday.github.io/yuan/) !!
