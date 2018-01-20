@@ -1,0 +1,22 @@
+---
+name: FarmBot
+description: FarmBot Software Architecture.
+cover: https://avatars2.githubusercontent.com/u/5784869?s=200&v=4
+entry: "#"
+contact:
+- your@email.com
+- twitter account
+links:
+- title: Facebook
+  url: https://www.facebook.com/groups/FarmBotTUG/
+  icon: https://hacking-thursday.github.io/yuan/icons/facebook.png
+- title: GitHub
+  url: https://github.com/FBTUG
+  icon: https://hacking-thursday.github.io/yuan/icons/github.png
+skills:
+- OS
+- Web
+- Arduino
+domains:
+other: String. Put anything you want to said.
+

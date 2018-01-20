@@ -1,0 +1,22 @@
+---
+name: Agrino
+description: 開源農用感測器專案。
+cover: https://raw.githubusercontent.com/OpenHackFarm/open_crops/gh-pages/No_Cover.jpg
+entry: http://opencrop.openhackfarm.tw/
+contact:
+- your@email.com
+links:
+- title: Facebook
+  url: https://www.facebook.com/groups/agrino.tw/
+  icon: https://hacking-thursday.github.io/yuan/icons/facebook.png
+- title: GitHub
+  url: https://github.com/Agriweather/agrino
+  icon: https://hacking-thursday.github.io/yuan/icons/github.png
+skills:
+- Arduino
+- 電路設計
+- 機構設計
+domains:
+- 植物生長數據量測
+other: String. Put anything you want to said.
+
