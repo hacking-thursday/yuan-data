@@ -9,6 +9,9 @@ links:
 - title: Facebook
   url: https://www.facebook.com/groups/OpenHackFarm/
   icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-facebook-s.png
+- title: Slack
+  url: http://slack.openhackfarm.tw/
+  icon: https://raw.githubusercontent.com/hacking-thursday/yuan-data/master/icons/Slack.jpg
 - title: GitHub
   url: https://github.com/OpenHackFarm/open_crops
   icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-github-s.png
