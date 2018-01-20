@@ -1,0 +1,14 @@
+language: python
+
+python:
+    - "2.7"
+
+script: ./build.sh
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master

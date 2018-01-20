@@ -1,0 +1,24 @@
+---
+name: OpenCrop
+description: Wiki-like open crop database.
+cover: https://raw.githubusercontent.com/OpenHackFarm/open_crops/gh-pages/No_Cover.jpg
+entry: http://opencrop.openhackfarm.tw/
+contact:
+- your@email.com
+- twitter account
+links:
+- title: Facebook
+  url: https://www.facebook.com/groups/OpenHackFarm/
+  icon: https://hacking-thursday.github.io/yuan/icons/facebook.png
+- title: GitHub
+  url: https://github.com/OpenHackFarm/open_crops
+  icon: https://hacking-thursday.github.io/yuan/icons/github.png
+skills:
+- Data Analysis
+- Data Virtualization
+domains:
+- 農業
+- 植物分類學
+- 植物病理
+other: String. Put anything you want to said.
+

@@ -1,0 +1,24 @@
+---
+name: OpenCrop
+description: Wiki-like open crop database.
+cover: https://raw.githubusercontent.com/OpenHackFarm/open_crops/gh-pages/No_Cover.jpg
+entry: http://opencrop.openhackfarm.tw/
+contact:
+- a0726h77@gmail.com
+links:
+- title: Facebook
+  url: https://www.facebook.com/groups/OpenHackFarm/
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-facebook-s.png
+- title: GitHub
+  url: https://github.com/OpenHackFarm/open_crops
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-github-s.png
+skills:
+- Data Analysis
+- Data Virtualization
+domains:
+- 農業
+- 植物分類學
+- 植物病理
+tags:
+- openhackfarm
+other: String. Put anything you want to said.
