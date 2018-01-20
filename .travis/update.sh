@@ -6,16 +6,19 @@ setup_git() {
 }
 
 update_file() {
-    echo ${GITHUB_TOKEN}
     git remote add origin-pages https://${GITHUB_TOKEN}@github.com/hacking-thursday/yuan-data.git > /dev/null 2>&1
     git push --quiet --set-upstream origin master
 }
 
+echo ${GITHUB_TOKEN}
+
+git status | grep autogen/data.json
+
 RET=$?
 
 if [[ $RET == 0 ]]; then
+    setup_git
     git add autogen/data.json
     git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
-    setup_git
     update_file
 fi
