@@ -6,6 +6,7 @@ setup_git() {
 }
 
 update_file() {
+    echo ${GITHUB_TOKEN}
     git remote add origin-pages https://${GITHUB_TOKEN}@github.com/hacking-thursday/yuan-data.git > /dev/null 2>&1
     git push --quiet --set-upstream origin master
 }
