@@ -5,18 +5,17 @@ cover: https://avatars2.githubusercontent.com/u/5784869?s=200&v=4
 entry: "#"
 contact:
 - your@email.com
-- twitter account
 links:
 - title: Facebook
   url: https://www.facebook.com/groups/FarmBotTUG/
-  icon: https://raw.githubusercontent.com/hacking-thursday/yuan-data/master/icons/webicon-facebook-s.png
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-facebook-s.png
 - title: GitHub
   url: https://github.com/FBTUG
-  icon: https://raw.githubusercontent.com/hacking-thursday/yuan-data/master/icons/webicon-github-s.png
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-github-s.png
 skills:
 - OS
 - Web
 - Arduino
 domains: []
+tags: []
 other: String. Put anything you want to said.
-
