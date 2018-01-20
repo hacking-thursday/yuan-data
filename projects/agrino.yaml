@@ -8,10 +8,10 @@ contact:
 links:
 - title: Facebook
   url: https://www.facebook.com/groups/agrino.tw/
-  icon: https://raw.githubusercontent.com/hacking-thursday/yuan/master/icons/webicon-facebook-s.png
+  icon: https://raw.githubusercontent.com/hacking-thursday/yuan-data/master/icons/webicon-facebook-s.png
 - title: GitHub
   url: https://github.com/Agriweather/agrino
-  icon: https://raw.githubusercontent.com/hacking-thursday/yuan/master/icons/webicon-github-s.png
+  icon: https://raw.githubusercontent.com/hacking-thursday/yuan-data/master/icons/webicon-github-s.png
 skills:
 - Arduino
 - 電路設計
