@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hacking-thursday/yuan-data.svg?branch=master)](https://travis-ci.org/hacking-thursday/yuan-data)
+
 Yuan (config data)
 ===
 Choosing match Open-Source projects.
