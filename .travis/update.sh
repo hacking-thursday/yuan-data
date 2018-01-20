@@ -7,7 +7,7 @@ setup_git() {
 
 update_file() {
     git add autogen/data.json
-    git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+    git commit --message "Travis build: $TRAVIS_BUILD_NUMBER [ci skip]"
     git push https://${GITHUB_TOKEN}@github.com/hacking-thursday/yuan-data.git HEAD:master
 }
 
