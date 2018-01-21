@@ -1,0 +1,22 @@
+---
+name: Yuan
+description: 開放原始碼專案媒合平台
+cover: https://raw.githubusercontent.com/OpenHackFarm/open_crops/gh-pages/No_Cover.jpg
+entry: https://hacking-thursday.github.io/yuan/
+contact:
+- ya790206@gmail.com
+- http://kjelly.tw/
+links:
+- title: Facebook
+  url: https://www.facebook.com/groups/hackingday/
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-facebook-s.png
+- title: GitHub
+  url: https://github.com/hacking-thursday/yuan
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-github-s.png
+skills:
+- React
+- Python
+domains: []
+tags:
+- H4
+other: String. Put anything you want to said.
