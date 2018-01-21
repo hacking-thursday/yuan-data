@@ -1,26 +1,23 @@
 ---
-name: OpenCrop # Project Name 專案名稱
-description: Wiki-like open crop database. # Project Description 專案敘述
+name: Yuan # Project Name 專案名稱
+description: 開放原始碼專案媒合平台 # Project Description 專案敘述
 cover: https://raw.githubusercontent.com/OpenHackFarm/open_crops/gh-pages/No_Cover.jpg # Cover Photo 專案封面圖片 (Best is 213 x 213 pixels)
-entry: http://opencrop.openhackfarm.tw/ # Project Main Page 主網頁
+entry: https://hacking-thursday.github.io/yuan/ # Project Main Page 主網頁
 contact: # Contact Information (E-Mail or Website Link) 聯絡資訊 (郵件信箱或網頁)
-- a0726h77@gmail.com
+- ya790206@gmail.com
+- http://kjelly.tw/
 links: # Relative Page (put [] if empty) 專案相關進入點
 - title: Facebook
-  url: https://www.facebook.com/groups/OpenHackFarm/
+  url: https://www.facebook.com/groups/hackingday/
   icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-facebook-s.png
   # More Icons 圖示可參考 https://github.com/adamfairhead/webicons/tree/master/webicons
 - title: GitHub
-  url: https://github.com/OpenHackFarm/open_crops
+  url: https://github.com/hacking-thursday/yuan
   icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-github-s.png
-skills: # 專案需求技能
-- Data Analysis
-- Data Virtualization
-domains: # 專業領域
-- Agriculture
-- 農業
-- 植物分類學
-- 植物病理
+skills: # 專案需求技能 (put [] if empty)
+- React
+- Python
+domains: [] # 專業領域 (put [] if empty)
 tags: # Hashtags (Show all projects with the hashtag via URL) 專案標記，可從網址列出此標記名的所有專案
-- openhackfarm
+- H4
 other: String. Put anything you want to said. # Comment 備註
