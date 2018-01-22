@@ -1,0 +1,23 @@
+---
+name: 社群儀表板
+description: 此專案目標是視覺化台灣社群的活動。
+cover: ""
+entry: http://community-dashboard-tw.appspot.com
+contact:
+- kjellytw@gmail.cm
+- http://kjelly.tw/
+links:
+- title: Facebook
+  url: https://www.facebook.com/groups/hackingday/
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-facebook-s.png
+- title: GitHub
+  url: https://github.com/hacking-thursday/community-dashboard
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-github-s.png
+skills:
+- Angular
+- Typescript
+- Python
+domains: []
+tags:
+- H4
+other: ""
