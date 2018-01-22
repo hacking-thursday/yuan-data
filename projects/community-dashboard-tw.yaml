@@ -1,7 +1,7 @@
 ---
 name: 社群儀表板
 description: 此專案目標是視覺化台灣社群的活動。
-cover: ""
+cover: https://raw.githubusercontent.com/OpenHackFarm/open_crops/gh-pages/No_Cover.jpg
 entry: http://community-dashboard-tw.appspot.com
 contact:
 - kjellytw@gmail.cm
