@@ -1,0 +1,18 @@
+---
+name: sysd
+description: The daemon who supplies firsthand system data
+cover: https://raw.githubusercontent.com/OpenHackFarm/open_crops/gh-pages/No_Cover.jpg
+entry: "#"
+contact:
+- matlinuxer2@gmail.com
+links:
+- title: GitHub
+  url: https://github.com/hacking-thursday/sysd
+  icon: https://raw.githubusercontent.com/adamfairhead/webicons/master/webicons/webicon-github-s.png
+skills:
+- golang
+- linux
+domains: []
+tags:
+- H4
+other: Feedback welcome # Comment 備註
